@@ -8,4 +8,6 @@ pumpkinblur doesnt seem to be able to be overriden, but set the blur value to fa
 3d items added by the pack uses bedrock position, otherwise, uses java
 
 torches are shaded and alpha channel had to be removed (redstone torch looks slightly different due to implementation)
+
+heart particle uses old version texture due to vanilla imitations
 ============================================
