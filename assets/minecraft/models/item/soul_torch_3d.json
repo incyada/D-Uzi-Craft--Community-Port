@@ -1,6 +1,6 @@
 {
     "parent": "item/template_torch_3d",
     "textures": {
-        "0": "item/3ditems/torch"
+        "0": "item/3ditems/soul_torch"
     }
 }

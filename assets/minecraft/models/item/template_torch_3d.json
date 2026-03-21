@@ -1,0 +1,62 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made by D°Uzi and ported by Cakeofcraft",
+	"textures": {
+		"0": "#torch"
+	},
+	"elements": [
+		{
+			"name": "opaqueNoFancy",
+			"from": [7, 0, 7],
+			"to": [9, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 12], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 12], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 12], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 12], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "opaqueNoFancy",
+			"from": [9.5, 10.5, 9.5],
+			"to": [6.5, 7.5, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 4, 8, 2], "texture": "#0"},
+				"east": {"uv": [10, 4, 8, 2], "texture": "#0"},
+				"south": {"uv": [10, 4, 8, 2], "texture": "#0"},
+				"west": {"uv": [10, 4, 8, 2], "texture": "#0"},
+				"up": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"down": {"uv": [8, 4, 10, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 0, 0],
+			"translation": [0, 4, 6.77]
+		},
+		"firstperson_righthand": {
+			"rotation": [-55, 75, 77],
+			"translation": [2, 4.25, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "rightitem",
+			"origin": [8, 0, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "opaqueNoFancy",
+					"origin": [8, 0, 8],
+					"color": 1,
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}
