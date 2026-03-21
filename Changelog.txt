@@ -6,4 +6,6 @@ Released on November 23 2025
 pumpkinblur doesnt seem to be able to be overriden, but set the blur value to false incase it gets fixed
 
 3d items added by the pack uses bedrock position, otherwise, uses java
+
+torches are shaded and alpha channel had to be removed (redstone torch looks slightly different due to implementation)
 ============================================
