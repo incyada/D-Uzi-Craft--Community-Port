@@ -1,0 +1,15 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/furnace_front_on",
+    "atlas_tile": "furnace_front_on",
+    "ticks_per_frame": 10,
+    "frames": [ 0, 1, 2, 3 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/bee_nest_front_honey",
+    "atlas_tile": "bee_nest_front",
+    "atlas_index": 1,
+    "ticks_per_frame": 10,
+    "frames": [ 0, 0, 0, 1, 2, 3 ]
+  }
+]

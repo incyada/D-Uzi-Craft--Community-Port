@@ -1,0 +1,92 @@
+{
+	"format_version": "1.8.0",
+	"geometry.cat": {
+		"texturewidth": 64,
+		"textureheight": 64,
+		"visible_bounds_width": 4,
+		"visible_bounds_height": 2,
+		"visible_bounds_offset": [0, 1, 0],
+		"bones": [
+			{
+				"name": "body",
+				"pivot": [0, 7, 1],
+				"cubes": [
+					{"origin": [-3, 1, -1], "size": [6, 14, 5], "uv": [1, 1]}
+				]
+			},
+			{
+				"name": "head",
+				"parent": "body",
+				"pivot": [0, 9, -9],
+				"cubes": [
+					{"origin": [-3.5, 7, -12], "size": [7, 5, 5], "uv": [19, 15]},
+					{"origin": [-1.5, 7.01562, -13], "size": [3, 2, 2], "uv": [24, 8]},
+					{"origin": [-3.5, 12, -10], "size": [2, 2, 1], "uv": [0, 32]},
+					{"origin": [1.5, 12, -10], "size": [2, 2, 1], "uv": [24, 12]}
+				],
+				"locators": {
+					"lead": [0, 9, -9]
+				}
+			},
+			{
+				"name": "head_sleep",
+				"parent": "body",
+				"pivot": [0, 9, -9],
+				"cubes": [
+					{"origin": [-3.5, 7, -12], "size": [7, 5, 5], "uv": [40, 5]},
+					{"origin": [-1.5, 7.01562, -13], "size": [3, 2, 2], "uv": [24, 8]},
+					{"origin": [-3.5, 12, -10], "size": [2, 2, 1], "uv": [0, 32]},
+					{"origin": [1.5, 12, -10], "size": [2, 2, 1], "uv": [24, 12]}
+				]
+			},
+			{
+				"name": "backLegL",
+				"parent": "body",
+				"pivot": [2.1, 6, 5],
+				"cubes": [
+					{"origin": [1.1, 0, 4], "size": [2, 6, 2], "uv": [16, 25]}
+				]
+			},
+			{
+				"name": "backLegR",
+				"parent": "body",
+				"pivot": [-2.1, 6, 5],
+				"cubes": [
+					{"origin": [-3.1, 0, 4], "size": [2, 6, 2], "uv": [24, 0]}
+				]
+			},
+			{
+				"name": "frontLegL",
+				"parent": "body",
+				"pivot": [2.2, 10, -4],
+				"cubes": [
+					{"origin": [1.2, 0.2, -5], "size": [2, 10, 2], "uv": [0, 20]}
+				]
+			},
+			{
+				"name": "frontLegR",
+				"parent": "body",
+				"pivot": [-2.2, 10, -4],
+				"cubes": [
+					{"origin": [-3.2, 0.2, -5], "size": [2, 10, 2], "uv": [8, 20]}
+				]
+			},
+			{
+				"name": "tail1",
+				"parent": "body",
+				"pivot": [0, 9, 6],
+				"cubes": [
+					{"origin": [-1, 3, 6], "size": [2, 6, 1], "uv": [30, 25]}
+				]
+			},
+			{
+				"name": "tail2",
+				"parent": "tail1",
+				"pivot": [0, 9, 12],
+				"cubes": [
+					{"origin": [-1, 3, 12], "size": [2, 6, 1], "uv": [24, 25]}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.parrot": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.red_blue",
+            "Texture.blue",
+            "Texture.green",
+            "Texture.yellow_blue",
+            "Texture.grey"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "query.get_name == 'Golden' ? Texture.golden : (query.get_name == 'Raven' ? Texture.raven : (query.get_name == 'Toucan' ? Texture.toucan : (Array.skins[query.variant])))"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:eye_of_ender_signal",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "textures": {
+        "default": "textures/entity/projectiles/ender_eye"
+      },
+      "geometry": {
+        "default": "geometry.enderpearl"
+      },
+      "render_controllers": [
+        "controller.render.item_sprite"
+      ],
+      "animations": {
+        "rotate": "animation.eye.rotate"
+      },
+      "scripts": {
+        "animate": [
+          "rotate"
+        ]
+      }
+    }
+  }
+}

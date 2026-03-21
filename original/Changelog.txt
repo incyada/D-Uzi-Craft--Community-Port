@@ -1,0 +1,57 @@
+D°UziCraft 1.9.0
+
+Blocks
+====================
+
+- Added Fallen Leaf Block Variations
+- Added Cactus Flower Color Variations
+- Added Dry Grass Variations
+- New Dragon Egg Texture
+- New Quartz Block Color Palette
+- Dark Oak Leaves Are Darker and Share a Texture with Pale Oak
+- New Textures for Carrot, Potato, and Radish Crops
+- New Sound for the Pale Tree Trunk
+- New Texture for the Green, Barkless Bamboo Block
+- New Texture for the Magma Block
+- Tweaks to Command Block Textures
+- Added Custom Textures for Waxed Copper Blocks
+
+Entities
+====================
+
+- The textures of the Ghast and Happy Ghast have been adjusted to be accurate to their size.
+- A small Easter egg has been added with the Ghastling being renamed "Baby".
+- The Wither now has a small outline.
+- The Wither has new particles when entering its second phase.
+- New texture and details with the charged Creeper.
+- The Blaze has a new texture and outline on its model.
+- The Squid and Turtle have new models for their baby variations.
+- New model for the Creaking.
+- New model for the Cows.
+- Baby versions of the new variants added (Spring to Life).
+- Added Technoblade nametag and custom saddle.
+* Temporarily removed the extra MCEarth variants (sheep, pigs, cows) to avoid conflicting with the new variants in the Spring to Life update.
+
+Items
+=====================
+
+- New textures for candles
+- Unique texture for mushroom and flower items (Paeonia, Pitcher Plant, Rose, Sunflower, and Syringa)
+- New textures for crops, Leaf Litters, flowers, chains, cakes, and music records
+- New textures for bricks
+- New textures for pale garden wood items
+- New textures for mangrove propagule
+
+Other
+=====================
+
+- New armor textures
+- New Ender Pearl and Ender Eye designs
+- Dark Forest is "darker" 
+- Pale Garden has a better feel with a new fog
+- New player crawl animation
+
+Next Drop (Experimental)
+- Tweaked copper armor and tools
+
+* Removed Herobrine

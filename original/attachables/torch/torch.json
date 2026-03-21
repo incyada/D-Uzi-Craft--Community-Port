@@ -1,0 +1,36 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:torch",
+      "materials": {
+        "default": "entity_emissive_alpha",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/entity/3Ditems/torch",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "geometry": {
+        "default": "geometry.torch"
+      },
+      "animations": {
+        "first_person": "animation.player.torch.first_person",
+        "3ra": "animation.player.torch"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "first_person": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'torch'"
+          },
+          {
+            "3ra": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'torch'"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.item_default"
+      ]
+    }
+  }
+}

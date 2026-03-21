@@ -1,0 +1,25 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.pig.v3": {
+      "arrays": {
+        "textures": {
+          "Array.default": [
+            "Texture.default",
+            "Texture.warm",
+            "Texture.cold"
+          ]
+        }
+      },
+      "geometry": "query.is_baby ? geometry.default_b : Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "query.get_name == 'Reuben' ? Texture.reuben : (query.get_name == 'Technoblade' ? Texture.Technoblade : (Array.default[v.index]))"
+      ]
+    }
+  }
+}

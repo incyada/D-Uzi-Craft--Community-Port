@@ -1,0 +1,59 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "creeper_banner_pattern": {
+      "textures": "textures/items/creeper_banner_pattern"
+    },
+    "skull_banner_pattern": {
+      "textures": "textures/items/skull_banner_pattern"
+    },
+    "flower_banner_pattern": {
+      "textures": "textures/items/flower_banner_pattern"
+    },
+    "mojang_banner_pattern": {
+      "textures": "textures/items/mojang_banner_pattern"
+    },
+    "piglin_banner_pattern": {
+      "textures": "textures/items/piglin_banner_pattern"
+    },
+    "globe_banner_pattern": {
+      "textures": "textures/items/globe_banner_pattern"
+    },
+    "field_masoned_banner_pattern": {
+      "textures": "textures/items/field_masoned_banner_pattern"
+    },
+    "bordure_indented_banner_pattern": {
+      "textures": "textures/items/bordure_indented_banner_pattern"
+    },
+    "flow_banner_pattern": {
+      "textures": "textures/items/flow_banner_pattern"
+    },
+    "guster_banner_pattern": {
+      "textures": "textures/items/guster_banner_pattern"
+    },
+    "enchanted_apple": {
+      "textures": "textures/items/enchanted_apple"
+    },
+    "map_filled": {
+      "textures": [
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_monument",
+        "textures/items/map_mansion",
+        "textures/items/map_nautilus",
+        "textures/items/map_locked",
+        "textures/items/map_snow",
+        "textures/items/map_taiga",
+        "textures/items/map_plains",
+        "textures/items/map_savanna",
+        "textures/items/map_dessert",
+        "textures/items/map_jungle",
+        "textures/items/map_swamp",
+        "textures/items/map_trial_chambers"
+      ]
+    }
+  },
+  "texture_name": "atlas.items"
+}

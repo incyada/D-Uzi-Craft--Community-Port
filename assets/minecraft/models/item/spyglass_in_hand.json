@@ -1,0 +1,66 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/spyglass_model",
+		"particle": "textures/item/spyglass_model"
+	},
+	"elements": [
+		{
+			"from": [7, 8.4, 6.9],
+			"to": [13.2, 10.6, 9.1],
+			"rotation": {"x": 0, "y": 0, "z": -90, "origin": [7, 8.5, 7]},
+			"faces": {
+				"north": {"uv": [2, 2, 8, 4], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
+				"south": {"uv": [10, 2, 16, 4], "texture": "#1"},
+				"west": {"uv": [8, 2, 10, 4], "texture": "#1"},
+				"up": {"uv": [8, 2, 2, 0], "texture": "#1"},
+				"down": {"uv": [14, 0, 8, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 8.5, 7],
+			"to": [7, 10.5, 9],
+			"rotation": {"x": 0, "y": 0, "z": -90, "origin": [7, 8.5, 7]},
+			"faces": {
+				"north": {"uv": [2, 6, 7, 8], "texture": "#1"},
+				"east": {"uv": [0, 6, 2, 8], "texture": "#1"},
+				"south": {"uv": [9, 6, 14, 8], "texture": "#1"},
+				"west": {"uv": [7, 6, 9, 8], "texture": "#1"},
+				"up": {"uv": [7, 6, 2, 4], "texture": "#1"},
+				"down": {"uv": [12, 4, 7, 6], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0]
+		},
+		"gui": {
+			"rotation": [-67.5, 0, 45],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "spyglass",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

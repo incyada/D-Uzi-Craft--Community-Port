@@ -1,0 +1,41 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.armadillo": {
+      "geometry": "query.is_baby ? geometry.default_b : Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.Xskins[variable.Xvar]"
+      ],
+      "arrays": {
+        "textures": {
+          "Array.Xskins": [
+            "Texture.default",
+            "Texture.default2"
+          ]
+        }
+      },
+      "part_visibility": [
+        {
+          "body": "!variable.use_rolled_up_model"
+        },
+        {
+          "tail": "!variable.use_rolled_up_model"
+        },
+        {
+          "left_hind_leg": "!variable.use_rolled_up_model"
+        },
+        {
+          "right_hind_leg": "!variable.use_rolled_up_model"
+        },
+        {
+          "body_rolled_up": "variable.use_rolled_up_model"
+        }
+      ]
+    }
+  }
+}

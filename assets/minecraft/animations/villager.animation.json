@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.villager.baby_transform": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"scale": 1.75
+				}
+			}
+		},
+		"animation.villager.general.v1.0": {
+			"loop": true,
+			"bones": {
+				"arms": {
+					"rotation": ["-42.97 - this", 0, 0],
+					"position": [0, "-3.0 - this", "-1.0 - this"]
+				}
+			}
+		}
+	}
+}

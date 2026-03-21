@@ -1,0 +1,47 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.creeper": {
+      "geometry": "Geometry.default",
+      "part_visibility": [
+        {
+          "head": "!query.is_powered",
+          "head_charged": "query.is_powered",
+          "body_charged": "query.is_powered",
+          "leg_charged": "query.is_powered",
+          "leg_charged2": "query.is_powered",
+          "leg_charged3": "query.is_powered",
+          "leg_charged4": "query.is_powered"
+        }
+      ],
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.Xskins[variable.Xvar]"
+      ],
+      "overlay_color": {
+        "r": "((variable.flash == 0.0) || (query.swelling_dir < 0.0)) ? this : 1.0",
+        "g": "((variable.flash == 0.0) || (query.swelling_dir < 0.0)) ? this : 1.0",
+        "b": "((variable.flash == 0.0) || (query.swelling_dir < 0.0)) ? this : 1.0",
+        "a": "((variable.flash == 0.0) || (query.swelling_dir < 0.0)) ? this : 0.5"
+      },
+      "arrays": {
+        "textures": {
+          "Array.Xskins": [
+            "Texture.default",
+            "Texture.default0",
+            "Texture.default1",
+            "Texture.default2",
+            "Texture.default3",
+            "Texture.default4",
+            "Texture.default5",
+            "Texture.default6"
+          ]
+        }
+      }
+    }
+  }
+}

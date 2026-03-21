@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.enderpearl.outer": {
+      "geometry": "Geometry.enderpearl.outer",
+      "materials": [ { "*": "Material.outer" } ],
+      "textures": [ "Texture.default" ]
+    }
+  }
+}

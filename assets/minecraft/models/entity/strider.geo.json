@@ -1,0 +1,89 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.strider",
+				"texture_width": 64,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "right_leg",
+					"pivot": [-4, 16, 0],
+					"cubes": [
+						{"origin": [-6, 0, -2], "size": [4, 16, 4], "uv": [0, 32]}
+					]
+				},
+				{
+					"name": "left_leg",
+					"pivot": [4, 16, 0],
+					"cubes": [
+						{"origin": [2, 0, -2], "size": [4, 16, 4], "uv": [0, 55]}
+					]
+				},
+				{
+					"name": "body",
+					"pivot": [0, 16, 0],
+					"cubes": [
+						{"origin": [-8, 14, -8], "size": [16, 14, 16], "uv": [0, 0]}
+					],
+					"locators": {
+						"lead": [0, 15, -1]
+					}
+				},
+				{
+					"name": "bristle5",
+					"parent": "body",
+					"pivot": [8, 19, 0],
+					"cubes": [
+						{"origin": [9, 20, -3], "size": [8, 0, 8], "pivot": [8, 20, 0], "rotation": [0, 0, 70], "uv": [11, 60]}
+					]
+				},
+				{
+					"name": "bristle4",
+					"parent": "body",
+					"pivot": [8, 24, 3],
+					"cubes": [
+						{"origin": [9, 26, -1], "size": [10, 0, 8], "pivot": [7, 26, 2], "rotation": [0, 0, 65], "uv": [11, 50]}
+					]
+				},
+				{
+					"name": "bristle3",
+					"parent": "body",
+					"pivot": [8, 28, 0],
+					"cubes": [
+						{"origin": [8, 28, -8], "size": [12, 0, 16], "pivot": [8, 28, 0], "rotation": [0, 0, 50], "uv": [3, 33]}
+					]
+				},
+				{
+					"name": "bristle2",
+					"parent": "body",
+					"pivot": [-8, 28, 0],
+					"cubes": [
+						{"origin": [-20, 28, -8], "size": [12, 0, 16], "pivot": [-8, 28, 0], "rotation": [0, 0, -50], "uv": [3, 33], "mirror": true}
+					]
+				},
+				{
+					"name": "bristle1",
+					"parent": "body",
+					"pivot": [-8, 24, 3],
+					"cubes": [
+						{"origin": [-18, 24, -1], "size": [10, 0, 8], "pivot": [-8, 24, 1], "rotation": [0, 0, -65], "uv": [11, 50], "mirror": true}
+					]
+				},
+				{
+					"name": "bristle0",
+					"parent": "body",
+					"pivot": [-8, 19, 0],
+					"cubes": [
+						{"origin": [-16, 19, -3], "size": [8, 0, 8], "pivot": [-8, 19, 0], "rotation": [0, 0, -70], "uv": [11, 60], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

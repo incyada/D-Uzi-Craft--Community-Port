@@ -1,0 +1,36 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:soul_torch",
+      "materials": {
+        "default": "entity_emissive_alpha",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/entity/3Ditems/soul_torch",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "geometry": {
+        "default": "geometry.torch"
+      },
+      "animations": {
+        "first_person": "animation.player.torch.first_person",
+        "3ra": "animation.player.torch"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "first_person": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'soul_torch'"
+          },
+          {
+            "3ra": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'soul_torch'"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.item_default"
+      ]
+    }
+  }
+}

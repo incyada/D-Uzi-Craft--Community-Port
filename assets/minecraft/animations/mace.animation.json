@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mace": {
+			"loop": true,
+			"bones": {
+				"mace": {
+					"rotation": ["c.is_first_person ? 65", "c.is_first_person ? -10", "c.is_first_person ? -55"],
+					"position": ["c.is_first_person ? -2.75", "c.is_first_person ? -1", "c.is_first_person ? 6"]
+				}
+			}
+		}
+	}
+}

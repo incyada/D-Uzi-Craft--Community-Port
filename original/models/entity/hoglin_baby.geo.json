@@ -1,0 +1,86 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.hoglin_baby",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 19, -3],
+					"cubes": [
+						{"origin": [-8, 11, -7], "size": [16, 14, 26], "inflate": 0.02, "uv": [1, 65]},
+						{"origin": [0, 22, -9], "size": [0, 10, 18], "inflate": 0.02, "uv": [91, 98]},
+						{"origin": [0, 17, 19], "size": [0, 10, 8], "uv": [93, 89]}
+					],
+					"locators": {
+						"lead": [0, 20, -5]
+					}
+				},
+				{
+					"name": "head",
+					"parent": "body",
+					"pivot": [0, 23, -5],
+					"rotation": [50, 0, 0],
+					"cubes": [
+						{"origin": [-7, 21, -26], "size": [14, 6, 20], "uv": [60, 64]},
+						{"origin": [-9, 23, -22], "size": [2, 8, 2], "uv": [1, 77]},
+						{"origin": [7, 23, -22], "size": [2, 8, 2], "uv": [1, 77]}
+					]
+				},
+				{
+					"name": "right_ear",
+					"parent": "head",
+					"pivot": [-7, 26, -8.25],
+					"rotation": [0, 0, -50],
+					"cubes": [
+						{"origin": [-12.7, 25.5, -12], "size": [6, 1, 4], "uv": [1, 65]}
+					]
+				},
+				{
+					"name": "left_ear",
+					"parent": "head",
+					"pivot": [7, 26, -7.25],
+					"rotation": [0, 0, 50],
+					"cubes": [
+						{"origin": [6.7, 25.5, -12], "size": [6, 1, 4], "uv": [1, 70]}
+					]
+				},
+				{
+					"name": "leg_back_right",
+					"pivot": [5, 11, 15],
+					"cubes": [
+						{"origin": [-7, 0, 13], "size": [4, 12, 4], "uv": [22, 110]}
+					]
+				},
+				{
+					"name": "leg_back_left",
+					"pivot": [-5, 11, 15],
+					"cubes": [
+						{"origin": [3, 0, 13], "size": [4, 12, 4], "uv": [1, 109]}
+					]
+				},
+				{
+					"name": "leg_front_right",
+					"pivot": [-6, 12, -3],
+					"cubes": [
+						{"origin": [-8, 0, -6], "size": [6, 14, 6], "uv": [66, 106]}
+					]
+				},
+				{
+					"name": "leg_front_left",
+					"pivot": [6, 12, -3],
+					"cubes": [
+						{"origin": [2, 0, -6], "size": [6, 14, 6], "uv": [41, 106]}
+					]
+				}
+			]
+		}
+	]
+}
