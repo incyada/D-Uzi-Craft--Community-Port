@@ -1,6 +1,6 @@
-5. fix broken items caused by conversion (including potions)
+5. fix broken items caused by conversion (including potions, but not sure about how to implement negative effects)
 6. add 3d projectiles (how did i glosed over that)
-7. add all block model changes
+7. add all block model changes and variants
 8. fix all mob models and textures (with emf and etf)
 -- need to include ghast emmisives
 9. add hidden mob variants (again, with etf and emf)
