@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "item/generated",
   "textures": {
-    "particle": "minecraft:item/transparent",
-    "layer0": "minecraft:item/beetroot_soup"
+    "particle": "block/null",
+    "layer0": "item/beetroot_soup"
   }
 }

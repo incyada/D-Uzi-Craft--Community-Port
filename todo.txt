@@ -1,9 +1,10 @@
 6. add all block model changes and variants
-7. add 3d projectiles (how did i glosed over that)
-8. fix all mob models and textures (with emf and etf)
+7. change block sounds (with polytone)
+8. add 3d projectiles (how did i glosed over that)
+9. fix all mob models and textures (with emf and etf)
 -- need to include ghast and creeper emmisives, actually, all of them
-9. add hidden mob variants (again, with etf and emf)
-10. try to implement negative effects
-11. add option to straighten all items in 3rd person
-12. backporting (until 1.20)
-13. anything else that is needed for the fork
+10. add hidden mob variants (again, with etf and emf)
+11. try to implement negative effects
+12. add option to straighten all items in 3rd person
+13. backporting (until 1.20)
+14. anything else that is needed for the fork
