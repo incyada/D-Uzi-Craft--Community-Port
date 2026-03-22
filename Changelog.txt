@@ -1,7 +1,8 @@
 ===========================================
-0.0.1: Alpha release
+1.0.0: Full release
 
-Released on November 23 2025
+Releasing when ready
+temp note spot until changelog is written
 -----------------
 pumpkinblur doesnt seem to be able to be overriden, but set the blur value to false incase it gets fixed
 
@@ -14,4 +15,10 @@ heart particle uses old version texture due to vanilla imitations and being unab
 pale garden fog and dark oak foliage color can only be done on polytone (also, no support for 1.21.8-1.21.6)
 
 wither particle is not implemented due to lack of polytone knowledge, may pick it up again
+
+im really not sure about projectiles, but we'll see
+
+thx vailla tweaks for the dont eat bowl part
+
+decided to seperate all entity textures to their own folder as this pack needs to have vanilla support, and broken entity textures are not fun, may change this another time
 ============================================

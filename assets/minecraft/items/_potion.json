@@ -1,0 +1,105 @@
+//gonna reimplement this once i found a way to not have to specify every potion if they are not specified
+//the file has been renamed so thayt it wont be named
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component":"minecraft:potion_contents",
+    "cases": [
+      {
+        "when": [
+          {"potion": "minecraft:weakness"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weakness_potions"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:long_weakness"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/item/weakness_potions"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:harming"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/harming_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:strong_harming"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/harming_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:poison"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/poison_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:long_poison"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/poison_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:strong_poison"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/poison_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:slowness"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/slowness_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:long_slowness"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/slowness_potion"
+        }
+      },
+      {
+        "when": [
+          {"potion": "minecraft:strong_slowness"}
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/slowness_potion"
+        }
+      }
+    ],
+ "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/potion"
+    }
+     }
+}
