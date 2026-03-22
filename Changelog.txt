@@ -9,5 +9,9 @@ pumpkinblur doesnt seem to be able to be overriden, but set the blur value to fa
 
 torches are shaded and alpha channel had to be removed (redstone torch looks slightly different due to implementation)
 
-heart particle uses old version texture due to vanilla imitations
+heart particle uses old version texture due to vanilla imitations and being unable to make a polytone version, files are present tho
+
+pale garden fog and dark oak foliage color can only be done on polytone (also, no support for 1.21.8-1.21.6)
+
+wither particle is not implemented due to lack of polytone knowledge, may pick it up again
 ============================================

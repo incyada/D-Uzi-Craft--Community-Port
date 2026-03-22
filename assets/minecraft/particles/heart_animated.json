@@ -1,0 +1,13 @@
+{
+    "textures": [
+        "minecraft:heart_animated_0",
+		"minecraft:heart_animated_1",
+		"minecraft:heart_animated_2",
+		"minecraft:heart_animated_3",
+		"minecraft:heart_animated_4",
+		"minecraft:heart_animated_5",
+		"minecraft:heart_animated_6",
+		"minecraft:heart_animated_7",
+        "minecraft:heart_animated_8"
+    ]
+}
