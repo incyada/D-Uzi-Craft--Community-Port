@@ -1,0 +1,15 @@
+{
+    "attributes_modifiers": {
+    "base": {
+       "minecraft:visual/fog_color": "#817770",
+       "minecraft:visual/fog_start_distance": {
+         "argument": 0,
+         "modifier": "multiply"
+       },
+       "minecraft:visual/fog_end_distance": {
+         "argument": 0.04,
+         "modifier": "multiply"
+       }
+    }
+  }
+}

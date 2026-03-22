@@ -1,10 +1,9 @@
-3. add dark oak leaves color (with polytone)
-4. add pale garden fog (again, with polytone)
 5. add missing particles (wither phase 2 and animated heart) (once again, with polytone)
-5. fix broken items caused by conversion
-6. add all block model changes
-7. fix all mob models and textures (with emf and etf)
-8. add hidden mob variants (again, with etf and emf)
-9. add option to straighten all items in 3rd person
-9. backporting (until 1.20)
-10. anything else that is needed for the fork
+5. add 3d projectiles (how did i glosed over that)
+6. fix broken items caused by conversion
+7. add all block model changes
+8. fix all mob models and textures (with emf and etf)
+9. add hidden mob variants (again, with etf and emf)
+10. add option to straighten all items in 3rd person
+11. backporting (until 1.20)
+12. anything else that is needed for the fork
