@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "east": "minecraft:block/purpur_block_0",
+    "south": "minecraft:block/purpur_block_0",
+    "top": "minecraft:block/purpur_block_1",
+    "bottom": "minecraft:block/purpur_block_1",
+    "all": "minecraft:block/purpur_block"
+  }
+}

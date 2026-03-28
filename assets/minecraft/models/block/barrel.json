@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/barrel_bottom",
+    "east": "minecraft:block/barrel_side_b",
+    "west": "minecraft:block/barrel_side_b",
+    "side": "minecraft:block/barrel_side",
+    "top": "minecraft:block/barrel_top"
+  }
+}
