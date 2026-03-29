@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures": {
     "particle": "block/null",
-    "layer0": "block/mushroom_stew"
+    "layer0": "item/mushroom_stew"
   }
 }

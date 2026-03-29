@@ -18,7 +18,7 @@ wither particle is not implemented due to lack of polytone knowledge, may pick i
 
 im really not sure about projectiles, but we'll see
 
-thx vailla tweaks for the dont eat bowl part
+thx vailla tweaks for the dont eat bowl and bedrock piston arm part
 
 decided to seperate all entity textures to their own folder as this pack needs to have vanilla support, and broken entity textures are not fun, may change this another time
 ============================================

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "minecraft:block/gilded_blackstone_0",
+    "bottom": "minecraft:block/gilded_blackstone_0",
+    "side": "minecraft:block/gilded_blackstone"
+  }
+}

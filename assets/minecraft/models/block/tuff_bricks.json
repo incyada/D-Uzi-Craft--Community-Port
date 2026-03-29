@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "north": "minecraft:block/tuff_bricks_0",
+    "east": "minecraft:block/tuff_bricks_0",
+    "all": "minecraft:block/tuff_bricks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/piston_head",
+	"textures": {
+		"all": "block/piston_arm_sticky"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "minecraft:block/deepslate_coal_ore_0",
+    "bottom": "minecraft:block/deepslate_coal_ore_0",
+    "side": "minecraft:block/deepslate_coal_ore"
+  }
+}
