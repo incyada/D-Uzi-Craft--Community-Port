@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/outer_stairs_bricks",
+  "textures": {
+    "north": "minecraft:block/cut_copper_0",
+    "east": "minecraft:block/cut_copper_0",
+    "top": "minecraft:block/cut_copper",
+    "bottom": "minecraft:block/cut_copper_1",
+    "side": "minecraft:block/cut_copper"
+  }
+}

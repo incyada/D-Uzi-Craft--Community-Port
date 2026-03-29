@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/stairs_bricks",
+  "textures": {
+    "north": "minecraft:block/oxidized_cut_copper_0",
+    "east": "minecraft:block/oxidized_cut_copper_0",
+    "top": "minecraft:block/oxidized_cut_copper",
+    "bottom": "minecraft:block/oxidized_cut_copper_1",
+    "side": "minecraft:block/oxidized_cut_copper"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/top_slab_bricks",
+  "textures": {
+    "north": "minecraft:block/exposed_cut_copper_0",
+    "east": "minecraft:block/exposed_cut_copper_0",
+    "bottom": "minecraft:block/exposed_cut_copper_1",
+    "side": "minecraft:block/exposed_cut_copper",
+    "top": "minecraft:block/exposed_cut_copper"
+  }
+}

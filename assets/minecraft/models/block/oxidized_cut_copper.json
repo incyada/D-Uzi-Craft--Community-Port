@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "north": "minecraft:block/oxidized_cut_copper_0",
+    "east": "minecraft:block/oxidized_cut_copper_0",
+    "down": "minecraft:block/oxidized_cut_copper_1",
+    "all": "minecraft:block/oxidized_cut_copper"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "north": "minecraft:block/copper_block_0",
+    "east": "minecraft:block/copper_block_0",
+    "all": "minecraft:block/copper_block"
+  }
+}
