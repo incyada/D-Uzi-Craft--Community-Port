@@ -7,5 +7,5 @@
 11. add hidden mob variants (again, with etf and emf)
 12. try to implement negative effects
 13. add option to straighten all items in 3rd person
-14. backporting (until 1.20)
-15. anything else that is needed for the fork
+14. anything else that is needed for the fork
+15. backporting (until 1.20)

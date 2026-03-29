@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/top_slab_bricks",
+  "textures": {
+    "north": "minecraft:block/nether_brick_0",
+    "east": "minecraft:block/nether_brick_0",
+    "bottom": "minecraft:block/nether_bricks",
+    "side": "minecraft:block/nether_bricks",
+    "top": "minecraft:block/nether_bricks"
+  }
+}

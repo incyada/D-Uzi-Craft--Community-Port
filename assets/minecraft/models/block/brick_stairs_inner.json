@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/inner_stairs",
+  "parent": "minecraft:block/inner_stairs_bricks",
   "textures": {
     "north": "minecraft:block/bricks_0",
     "east": "minecraft:block/bricks_0",
