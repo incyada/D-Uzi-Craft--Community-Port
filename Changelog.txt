@@ -21,4 +21,6 @@ im really not sure about projectiles, but we'll see
 thx vailla tweaks for the dont eat bowl and bedrock piston arm part
 
 decided to seperate all entity textures to their own folder as this pack needs to have vanilla support, and broken entity textures are not fun, may change this another time
+
+some hud textures are from my resource pack cause someone genuelly forgot (regular blinking was added by me, but might port it)
 ============================================
