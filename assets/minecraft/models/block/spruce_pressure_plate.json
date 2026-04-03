@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "minecraft:block/plates/pressure_plate_planks_spruce"
+  }
+}
