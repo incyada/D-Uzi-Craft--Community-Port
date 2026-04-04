@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/tall_dry_grass",
+				"weight": 10
+			},
+			{
+				"model": "minecraft:block/tall_dry_grass_0",
+				"weight": 3
+			}
+		]
+	}
+}
