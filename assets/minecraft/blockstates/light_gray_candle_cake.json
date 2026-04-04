@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "lit=false": [
+			{
+			"model": "minecraft:block/light_gray_candle_cake",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/light_gray_candle_cakeofcraft",
+			"weight": 3
+			}
+		],
+    "lit=true": [
+			{
+			"model": "minecraft:block/light_gray_candle_cake_lit",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/light_gray_candle_cakeofcraft_lit",
+			"weight": 3
+			}
+		]
+  }
+}

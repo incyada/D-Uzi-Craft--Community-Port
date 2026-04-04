@@ -1,0 +1,74 @@
+{
+	"variants": {
+		"bites=0": [
+			{
+			"model": "minecraft:block/cake",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft",
+			"weight": 3
+			}
+		],
+		"bites=1": [
+			{
+			"model": "minecraft:block/cake_slice1",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft_slice1",
+			"weight": 3
+			}
+		],
+		"bites=2": [
+			{
+			"model": "minecraft:block/cake_slice2",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft_slice2",
+			"weight": 3
+			}
+		],
+		"bites=3": [
+			{
+			"model": "minecraft:block/cake_slice3",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft_slice3",
+			"weight": 3
+			}
+		],
+		"bites=4": [
+			{
+			"model": "minecraft:block/cake_slice4",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft_slice4",
+			"weight": 3
+			}
+		],
+		"bites=5": [
+			{
+			"model": "minecraft:block/cake_slice5",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft_slice5",
+			"weight": 3
+			}
+		],
+		"bites=6": [
+			{
+			"model": "minecraft:block/cake_slice6",
+			"weight": 10
+			},
+			{
+			"model": "minecraft:block/cakeofcraft_slice6",
+			"weight": 3
+			}
+		]
+	}
+}

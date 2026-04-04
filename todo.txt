@@ -1,4 +1,3 @@
-6. add all block model changes
 7. add block model variants
 8. change block sounds (with polytone)
 9. double slab time
@@ -11,4 +10,5 @@
 15. anything else that is needed for the fork
 16. shell script to make publishing easier (removes dev files and git repo)
 -- script should go like this: copy directory, enter said directory, delete git stuff and original pack, then compress into a file with the same name as the pack
+-- not sure if there are any command to do the compression part, maybe there are some
 17. backporting (until 1.20)
