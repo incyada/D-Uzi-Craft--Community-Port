@@ -1,0 +1,34 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/dirt",
+				"weight": 4
+			},
+			{
+				"model": "minecraft:block/dirt_0",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/dirt_1",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/dirt_2",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/dirt_3",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/dirt_4",
+				"weight": 3
+			},
+			{
+				"model": "minecraft:block/dirt_5",
+				"weight": 5
+			}
+		]
+	}
+}

@@ -1,5 +1,5 @@
 //gonna reimplement this once i found a way to not have to specify every potion if they are not specified
-//the file has been renamed so thayt it wont be named
+//the file has been renamed so that it wont be read
 {
   "model": {
     "type": "minecraft:select",

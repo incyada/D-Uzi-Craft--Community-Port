@@ -25,4 +25,6 @@ decided to seperate all entity textures to their own folder as this pack needs t
 some hud textures are from my resource pack cause someone genuelly forgot (regular blinking was added by me, but might port it), did try to be faithful
 
 no pale oak pressure place cause SOMEONE forgot to make on before release the eigth version of his pack...
+
+port was made because the other port had some bugs, missing features, and the fact that it was made with a older development version while this one tries to be more faithful and only focuses on full releases
 ============================================

@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/pink_tulip",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/pink_daisy",
+				"weight": 1
+			}
+		]
+	}
+}

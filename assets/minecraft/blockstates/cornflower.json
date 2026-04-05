@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/cornflower",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/blue_rose",
+				"weight": 1
+			}
+		]
+	}
+}

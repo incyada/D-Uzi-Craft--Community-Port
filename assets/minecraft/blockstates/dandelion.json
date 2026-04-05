@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/dandelion",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/buttercup",
+				"weight": 1
+			}
+		]
+	}
+}

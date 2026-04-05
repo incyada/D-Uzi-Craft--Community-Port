@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/blue_orchid",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/light_blue_rose",
+				"weight": 1
+			}
+		]
+	}
+}
