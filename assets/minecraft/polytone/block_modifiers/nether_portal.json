@@ -1,0 +1,9 @@
+{
+   "sound_type": {
+      "break_sound": "block.respawn_anchor.deplete",
+      "place_sound": "block.stone.place",
+      "hit_sound": "block.stone.break",
+      "step_sound": "block.stone.step",
+      "fall_sound": "block.stone.fall"
+   }
+}

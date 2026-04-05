@@ -1,0 +1,9 @@
+{
+   "targets": [
+      "minecraft:bricks",
+      "minecraft:brick_wall",
+      "minecraft:brick_slab",
+      "minecraft:brick_stairs"
+   ],
+   "sound_type": "nether_bricks"
+}

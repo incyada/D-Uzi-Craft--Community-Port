@@ -1,0 +1,10 @@
+{
+    "targets": [
+        "minecraft:coal_block",
+        "minecraft:lapis_block",
+        "minecraft:raw_iron_block",
+        "minecraft:raw_copper_block",
+        "minecraft:raw_gold_block"
+    ],
+    "sound_type": "ancient_debris"
+}

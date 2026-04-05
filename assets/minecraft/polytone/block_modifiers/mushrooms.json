@@ -1,0 +1,7 @@
+{
+   "targets": [
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom"
+   ],
+   "sound_type": "fungus"
+}

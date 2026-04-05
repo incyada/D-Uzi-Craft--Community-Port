@@ -12,7 +12,7 @@ torches are shaded and alpha channel had to be removed (redstone torch looks sli
 
 heart particle uses old version texture due to vanilla imitations and being unable to make a polytone version, files are present tho
 
-pale garden fog and dark oak foliage color can only be done on polytone (also, no support for 1.21.8-1.21.6)
+pale garden fog dark oak foliage color and block sounds can only be done on polytone (also, no support for 1.21.8-1.21.6 for the mod, or partial)
 
 wither particle is not implemented due to lack of polytone knowledge, may pick it up again
 
@@ -27,4 +27,6 @@ some hud textures are from my resource pack cause someone genuelly forgot (regul
 no pale oak pressure place cause SOMEONE forgot to make on before release the eigth version of his pack...
 
 port was made because the other port had some bugs, missing features, and the fact that it was made with a older development version while this one tries to be more faithful and only focuses on full releases
+
+dont ask me why iron blocks sounds like heavy cores, i dont know either
 ============================================
