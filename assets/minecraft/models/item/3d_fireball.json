@@ -1,0 +1,38 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"all": "item/projectiles/fireball"
+	},
+	"elements": [
+		{
+			"name": "projectile",
+			"from": [4.5, 0.5, 4.5],
+			"to": [11.5, 7.5, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 8], "texture": "#all"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#all"},
+				"south": {"uv": [12, 4, 16, 8], "texture": "#all"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#all"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#all"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#all"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 3, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "projectile",
+			"origin": [8, 4, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

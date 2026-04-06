@@ -7,6 +7,7 @@ temp note spot until changelog is written
 pumpkinblur doesnt seem to be able to be overriden, but set the blur value to false incase it gets fixed
 
 3d items added by the pack uses bedrock position, otherwise, uses java
+-- tried using maths to replicate, but until i found a working formula, will be doing replication instead
 
 torches are shaded and alpha channel had to be removed (redstone torch looks slightly different due to implementation)
 
@@ -29,4 +30,12 @@ no pale oak pressure place cause SOMEONE forgot to make on before release the ei
 port was made because the other port had some bugs, missing features, and the fact that it was made with a older development version while this one tries to be more faithful and only focuses on full releases
 
 dont ask me why iron blocks sounds like heavy cores, i dont know either
+
+no dragon fireball model, it is the only projectile who's model is a un changeable sprite
+
+projectiles are 3d on ground due to how 3d projectiles are rendered. they use the item sprite instead of a unique one, like in bedrock
+
+also, no projectile rotations due to the inability to do so
+
+also also, filepath is different due to how model filepaths works
 ============================================

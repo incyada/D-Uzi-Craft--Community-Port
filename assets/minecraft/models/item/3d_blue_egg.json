@@ -1,0 +1,7 @@
+{
+  "parent": "item/3d_egg",
+  "textures": {
+    "particle": "item/projectiles/blue_egg",
+    "all": "item/projectiles/blue_egg"
+  }
+}

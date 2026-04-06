@@ -1,0 +1,7 @@
+{
+  "parent": "item/3d_fireball",
+  "textures": {
+    "particle": "item/projectiles/snowball",
+    "all": "item/projectiles/snowball"
+  }
+}

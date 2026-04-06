@@ -1,0 +1,7 @@
+{
+  "parent": "item/3d_ender_pearl",
+  "textures": {
+    "particle": "item/projectiles/ender_eye",
+    "all": "item/projectiles/ender_eye"
+  }
+}
