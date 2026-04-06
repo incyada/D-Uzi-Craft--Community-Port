@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/green_bamboo_pillar_top",
+    "side": "minecraft:block/green_bamboo_pillar"
+  }
+}

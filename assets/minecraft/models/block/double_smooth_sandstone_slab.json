@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/stone_double/sandstone_brick",
+    "down": "minecraft:block/stone_double/sandstone_brick_1",
+    "north": "minecraft:block/stone_double/sandstone_brick_0",
+    "east": "minecraft:block/stone_double/sandstone_brick_0"
+  }
+}

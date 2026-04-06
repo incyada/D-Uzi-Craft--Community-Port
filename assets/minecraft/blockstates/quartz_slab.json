@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/double_quartz_slab"
+    }
+  }
+}

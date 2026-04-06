@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/stone_double/double_slab_stonebrick_mossy"
+  }
+}

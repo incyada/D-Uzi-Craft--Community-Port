@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/stone_double/stone_brick_granite",
+    "north": "minecraft:block/stone_double/stone_brick_granite_0",
+    "east": "minecraft:block/stone_double/stone_brick_granite_0"
+  }
+}

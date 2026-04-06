@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/double_pale_oak_slab"
+    }
+  }
+}

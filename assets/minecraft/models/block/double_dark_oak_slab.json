@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/double_slab_planks_big_oak_top",
+    "side": "minecraft:block/double_slab_planks_big_oak"
+  }
+}

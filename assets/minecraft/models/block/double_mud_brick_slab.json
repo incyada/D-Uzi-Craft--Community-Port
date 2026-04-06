@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/double_slab_mud_bricks",
+    "down": "minecraft:block/double_slab_mud_bricks_1",
+    "north": "minecraft:block/double_slab_mud_bricks_0",
+    "east": "minecraft:block/double_slab_mud_bricks_0"
+  }
+}
