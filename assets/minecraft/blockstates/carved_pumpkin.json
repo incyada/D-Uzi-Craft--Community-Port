@@ -1,0 +1,126 @@
+{
+	"variants": {
+		"facing=east": [
+			{
+				"model": "minecraft:block/carved_pumpkin",
+				"weight": 1,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_0",
+				"weight": 1,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_1",
+				"weight": 1,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_2",
+				"weight": 1,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_3",
+				"weight": 1,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_4",
+				"weight": 1,
+				"y": 90
+			}
+		],
+		"facing=north": [
+			{
+				"model": "minecraft:block/carved_pumpkin",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_0",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_1",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_2",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_3",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_4",
+				"weight": 1
+			}
+		],
+		"facing=south": [
+			{
+				"model": "minecraft:block/carved_pumpkin",
+				"weight": 1,
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_0",
+				"weight": 1,
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_1",
+				"weight": 1,
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_2",
+				"weight": 1,
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_3",
+				"weight": 1,
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_4",
+				"weight": 1,
+				"y": 180
+			}
+		],
+		"facing=west": [
+			{
+				"model": "minecraft:block/carved_pumpkin",
+				"weight": 1,
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_0",
+				"weight": 1,
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_1",
+				"weight": 1,
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_2",
+				"weight": 1,
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_3",
+				"weight": 1,
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/carved_pumpkin_4",
+				"weight": 1,
+				"y": 270
+			}
+		]
+	}
+}
