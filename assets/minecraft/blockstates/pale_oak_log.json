@@ -1,0 +1,40 @@
+{
+	"variants": {
+		"axis=x": [
+			{
+				"model": "minecraft:block/pale_oak_log",
+				"weight": 50,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/pale_oak_log_0",
+				"weight": 3,
+				"x": 90,
+				"y": 90
+			}
+		],
+		"axis=y": [
+			{
+				"model": "minecraft:block/pale_oak_log",
+				"weight": 50
+			},
+			{
+				"model": "minecraft:block/pale_oak_log_0",
+				"weight": 3
+			}
+		],
+		"axis=z": [
+			{
+				"model": "minecraft:block/pale_oak_log",
+				"weight": 50,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/pale_oak_log_0",
+				"weight": 3,
+				"x": 90
+			}
+		]
+	}
+}

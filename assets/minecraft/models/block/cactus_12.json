@@ -1,0 +1,6 @@
+{   "parent": "minecraft:block/template_cactus",
+    "textures": {
+        "top": "block/cactus/cactus_top_0",
+        "side": "block/cactus_side"
+    }
+}

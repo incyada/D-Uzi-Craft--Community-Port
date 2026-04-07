@@ -1,12 +1,13 @@
 11. finish block model variants
-12. fix all mob models and textures (with emf and etf)
+12. pale oak wood sounds (LAST thing to do with blocks, im so done with this)
+13. fix all mob models and textures (with emf and etf)
 -- need to include ghast and creeper emmisives, actually, all of them
-13. add hidden mob variants (again, with etf and emf)
-14. try again to implement negative effects potion bottles with an optimized file
-15. add option to straighten all items in 3rd person
-16. log cleanup
-17. anything else that is needed for the fork
-18. shell script to make publishing easier (removes dev files and git repo)
+14. add hidden mob variants (again, with etf and emf)
+15. try again to implement negative effects potion bottles with an optimized file
+16. add option to straighten all items in 3rd person
+17. log cleanup
+18. anything else that is needed for the fork
+19. shell script to make publishing easier (removes dev files and git repo)
 -- script should go like this: copy directory, enter said directory, delete git stuff and original pack, then compress into a file with the same name as the pack
 -- not sure if there are any command to do the compression part, maybe there are some
-19. backporting (until 1.20)
+20. backporting (until 1.20)

@@ -38,4 +38,6 @@ projectiles are 3d on ground due to how 3d projectiles are rendered. they use th
 also, no projectile rotations due to the inability to do so
 
 also also, filepath is different due to how model filepaths works
+
+using my opimized arrow model cause my lord is the orginal just straight brute force
 ============================================

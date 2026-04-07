@@ -1,0 +1,130 @@
+{
+	"variants": {
+		"axis=x": [
+			{
+				"model": "minecraft:block/birch_log",
+				"weight": 20,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_0",
+				"weight": 15,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_1",
+				"weight": 15,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_2",
+				"weight": 25,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_3",
+				"weight": 15,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_4",
+				"weight": 15,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_5",
+				"weight": 15,
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_6",
+				"weight": 3,
+				"x": 90,
+				"y": 90
+			}
+		],
+		"axis=y": [
+			{
+				"model": "minecraft:block/birch_log",
+				"weight": 20
+			},
+			{
+				"model": "minecraft:block/birch_log_0",
+				"weight": 15
+			},
+			{
+				"model": "minecraft:block/birch_log_1",
+				"weight": 15
+			},
+			{
+				"model": "minecraft:block/birch_log_2",
+				"weight": 25
+			},
+			{
+				"model": "minecraft:block/birch_log_3",
+				"weight": 15
+			},
+			{
+				"model": "minecraft:block/birch_log_4",
+				"weight": 15
+			},
+			{
+				"model": "minecraft:block/birch_log_5",
+				"weight": 15
+			},
+			{
+				"model": "minecraft:block/birch_log_6",
+				"weight": 3
+			}
+		],
+		"axis=z": [
+			{
+				"model": "minecraft:block/birch_log",
+				"weight": 20,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_0",
+				"weight": 15,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_1",
+				"weight": 15,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_2",
+				"weight": 25,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_3",
+				"weight": 15,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_4",
+				"weight": 15,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_5",
+				"weight": 15,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/birch_log_6",
+				"weight": 3,
+				"x": 90
+			}
+		]
+	}
+}
