@@ -1,0 +1,15 @@
+{
+    "targets": [
+        "minecraft:pale_oak_log",
+        "minecraft:pale_oak_wood"
+    ],
+    "sound_type": {
+      "break_sound": "block.nether_wood.break",
+      "place_sound": "block.creaking_heart.place",
+      "hit_sound": "block.creaking_heart.place",
+      "step_sound": "block.wood.step",
+      "fall_sound": "block.wood.step",
+      "pitch": 0.6,
+      "volume": 1
+   } 
+}

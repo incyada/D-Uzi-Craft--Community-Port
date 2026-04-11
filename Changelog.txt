@@ -40,4 +40,8 @@ also, no projectile rotations due to the inability to do so
 also also, filepath is different due to how model filepaths works
 
 using my opimized arrow model cause my lord is the orginal just straight brute force
+
+lilypad uses ctm instead of vanilla block variants due to how many variations if have to make
+-- here is quick math: 5 lilypads x 9 flowers = 45 models (variants works with models instead of textures)
+-- not fun, even if i were to optimise it
 ============================================
