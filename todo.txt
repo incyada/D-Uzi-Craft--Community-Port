@@ -1,4 +1,3 @@
-12. pale oak wood sounds
 13. fix all mob models and textures (with emf and etf)
 -- need to include ghast and creeper emmisives, actually, all of them
 14. add hidden mob variants (again, with etf and emf)
