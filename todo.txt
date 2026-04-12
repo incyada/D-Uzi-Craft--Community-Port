@@ -1,5 +1,5 @@
 13. fix all mob models and textures (with emf and etf)
--- finish blaze cat, and creeper
+-- finish blaze, cat, creeper, horse armor, llama, sheep, rabbit
 -- need to include ghast and creeper emmisives, actually, all of them
 14. add hidden mob variants (again, with etf and emf)
 15. lilypad variants (with continuity) (LAST thing to do with blocks, im so done with this)

@@ -46,4 +46,6 @@ lilypad uses ctm instead of vanilla block variants due to how many variations if
 -- not fun, even if i were to optimise it
 
 all entity textures are in a different folder (including the non necessary ones) in order to not make EMF a dependency of this pack
+
+snow golem's pumpkin variant is unclear on how it works, which might be why the head looks like... that
 ============================================
