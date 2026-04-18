@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 64],
-	"texture": "textures/d_uzi_entities/llama/creamy.png",
+	//"texture": "textures/d_uzi_entities/llama/creamy.png",
 	"models": [
 		{
 			"part": "head",
