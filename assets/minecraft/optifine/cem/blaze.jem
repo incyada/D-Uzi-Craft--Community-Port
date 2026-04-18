@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [32, 32],
-	"texture": "textures/d_uzi_entities/blaze.png",
+	"texture": "optifine/random/entity/blaze.png",
 	"models": [
 		{
 			"part": "head",

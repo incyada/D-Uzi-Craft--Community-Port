@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 64],
-	"texture": "textures/d_uzi_entities/cat/all_black.png",
 	"models": [
 		{
 			"part": "head",
@@ -30,7 +29,7 @@
 			"animations": [
 				{
 					"head_sleep.visible": "if(head.rz!=0, true, false)",
-					"head.visible": "if(head.rz==0, true, false)"
+					"head.visible": "if(head.rz!=0, false, true)"
 				}
 			]
 		},

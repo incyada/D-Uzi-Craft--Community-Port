@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 64],
-	"texture": "textures/d_uzi_entities/llama_body/red.png",
 	"models": [
 		{
 			"part": "head",

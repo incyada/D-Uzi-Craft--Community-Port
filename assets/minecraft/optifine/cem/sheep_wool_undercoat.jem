@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 64],
-	"texture": "textures/d_uzi_entities/sheep/sheep.png",
+	"texture": "optifine/random/entity/sheep/sheep_wool_undercoat.png",
 	"models": [
 		{
 			"part": "body",

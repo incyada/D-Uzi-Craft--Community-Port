@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 32],
-	"texture": "textures/d_uzi_entities/skeleton/bogged_outer.png",
+	"texture": "optifine/random/entity/skeleton/bogged_outer.png",
 	"models": [
 		{
 			"part": "head",

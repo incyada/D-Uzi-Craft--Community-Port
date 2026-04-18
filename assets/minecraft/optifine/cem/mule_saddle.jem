@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 64],
-	"texture": "textures/d_uzi_entities/equipments/horse_saddle/saddle.png",
+	"texture": "optifine/random/entity/equipments/horse_saddle/saddle.png",
 	"models": [
 		{
 			"part": "head",

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 64],
-	"texture": "textures/d_uzi_entities/armadillo/armadillo_0.png",
+	"texture": "optifine/random/entity/armadillo/armadillo_0.png",
 	"models": [
 		{
 			"part": "head",

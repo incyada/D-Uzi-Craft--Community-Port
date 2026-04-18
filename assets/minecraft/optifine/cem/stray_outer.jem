@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 32],
-	"texture": "textures/d_uzi_entities/skeleton/stray_overlay.png",
+	"texture": "optifine/random/entity/skeleton/stray_overlay.png",
 	"models": [
 		{
 			"part": "head",

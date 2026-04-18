@@ -1,0 +1,12 @@
+# Made by Cakeofcraft
+# example of how i added optifine textures while keeping vanilla variants for mobs with multiple variants
+# how it works is this
+# optifine cannot overlay or replace an entity texture onto the optifine model if the models dont match
+# however, i have found an easy fix to this (that took absolutely forever because of how much research i had to do to find this solution)
+# basically, im exploiting optifine's random entity textures features in order to apply the correct model, afterwards, this file does the handling
+# in short, the 0 refer to the first texture, which has no weight (meaning a 0% chance to appear), the second one has a weight of 1, so it should always appear in game
+# the texture rule is there in order for this to work, for some reason
+# the only problem with this might be slightly decreased perfomance, and possibly higher vram usage (as more textures has to be cached now), but atleast minecraft is a pretty light game, vram wise
+# let me know if this was helpful, cause it took soo damn long to make this possible
+textures.1=1 2
+weights.1=0 1
