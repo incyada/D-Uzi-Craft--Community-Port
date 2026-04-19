@@ -1,0 +1,186 @@
+{
+	//only using masaki's model as a point of reference
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -2.25, 5],
+			"boxes": [
+				{
+					"coordinates": [-3.575, -0.5375, -9.29, 7.15, 4.29, 4.29],
+					"uvNorth": [35, 37, 40, 40],
+					"uvEast": [32, 37, 35, 40],
+					"uvSouth": [43, 37, 48, 40],
+					"uvWest": [40, 37, 43, 40],
+					"uvUp": [40, 37, 35, 34],
+					"uvDown": [45, 34, 40, 37]
+				}
+			]
+		},
+		{
+			"part": "top_gills",
+			"id": "top_gills",
+			"invertAxis": "xy",
+			"translate": [0, -4.8925, 5.68],
+			"boxes": [
+				{
+					"coordinates": [-4.29, 3.7525, -6.43, 8.58, 2.86, 0],
+					"uvNorth": [32, 56, 38, 58],
+					"uvEast": [32, 56, 32, 58],
+					"uvSouth": [38, 56, 44, 58],
+					"uvWest": [38, 56, 38, 58],
+					"uvUp": [38, 56, 32, 56],
+					"uvDown": [44, 56, 38, 56]
+				}
+			]
+		},
+		{
+			"part": "right_gills",
+			"id": "right_gills",
+			"invertAxis": "xy",
+			"translate": [4.2175, -2.965, 6.43],
+			"boxes": [
+				{
+					"coordinates": [-7.865, -0.5375, -6.43, 4.29, 5.72, 0],
+					"uvNorth": [38, 59, 41, 63],
+					"uvEast": [38, 59, 38, 63],
+					"uvSouth": [41, 59, 44, 63],
+					"uvWest": [41, 59, 41, 63],
+					"uvUp": [41, 59, 38, 59],
+					"uvDown": [44, 59, 41, 59]
+				}
+			]
+		},
+		{
+			"part": "left_gills",
+			"id": "left_gills",
+			"invertAxis": "xy",
+			"translate": [-4.145, -2.6075, 6.43],
+			"boxes": [
+				{
+					"coordinates": [3.575, -0.5375, -6.43, 4.29, 5.72, 0],
+					"uvNorth": [29, 59, 32, 63],
+					"uvEast": [29, 59, 29, 63],
+					"uvSouth": [32, 59, 35, 63],
+					"uvWest": [32, 59, 32, 63],
+					"uvUp": [32, 59, 29, 59],
+					"uvDown": [35, 59, 32, 59]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -1.8925, -4.2275],
+			"boxes": [
+				{
+					"coordinates": [0, 0.8925, -5, 0, 2.86, 10.01],
+					"uvNorth": [37, 52, 37, 54],
+					"uvEast": [30, 52, 37, 54],
+					"uvSouth": [44, 52, 44, 54],
+					"uvWest": [37, 52, 44, 54],
+					"uvUp": [37, 52, 37, 45],
+					"uvDown": [37, 45, 37, 52]
+				},
+				{
+					"coordinates": [-3.575, -0.5375, -5, 7.15, 2.86, 10.01],
+					"uvNorth": [38, 47, 43, 49],
+					"uvEast": [31, 47, 38, 49],
+					"uvSouth": [50, 47, 55, 49],
+					"uvWest": [43, 47, 50, 49],
+					"uvUp": [43, 47, 38, 40],
+					"uvDown": [48, 40, 43, 47]
+				}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [2, 0.325, 2.855],
+			"boxes": [
+				{
+					"coordinates": [-5.72, -4.8275, -4.285, 4.29, 5.72, 0],
+					"uvNorth": [30, 41, 33, 45],
+					"uvEast": [30, 41, 30, 45],
+					"uvSouth": [33, 41, 36, 45],
+					"uvWest": [33, 41, 33, 45],
+					"uvUp": [33, 41, 30, 41],
+					"uvDown": [36, 41, 33, 41]
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [2.3575, 0.325, -4.295],
+			"boxes": [
+				{
+					"coordinates": [-5.72, -4.8275, 2.865, 4.29, 5.72, 0],
+					"uvNorth": [30, 41, 33, 45],
+					"uvEast": [30, 41, 30, 45],
+					"uvSouth": [33, 41, 36, 45],
+					"uvWest": [33, 41, 33, 45],
+					"uvUp": [33, 41, 30, 41],
+					"uvDown": [36, 41, 33, 41]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-2.5, 0.325, 2.855],
+			"boxes": [
+				{
+					"coordinates": [1.43, -4.8275, -4.285, 4.29, 5.72, 0],
+					"uvNorth": [30, 41, 33, 45],
+					"uvEast": [30, 41, 30, 45],
+					"uvSouth": [33, 41, 36, 45],
+					"uvWest": [33, 41, 33, 45],
+					"uvUp": [33, 41, 30, 41],
+					"uvDown": [36, 41, 33, 41]
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-2.3575, 0.6825, -4.295],
+			"boxes": [
+				{
+					"coordinates": [1.43, -4.8275, 2.865, 4.29, 5.72, 0],
+					"uvNorth": [30, 41, 33, 45],
+					"uvEast": [30, 41, 30, 45],
+					"uvSouth": [33, 41, 36, 45],
+					"uvWest": [33, 41, 33, 45],
+					"uvUp": [33, 41, 30, 41],
+					"uvDown": [36, 41, 33, 41]
+				}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -1.3225, -5.3],
+			"boxes": [
+				{
+					"coordinates": [0, 0.8925, 5.01, 0, 2.86, 4.29],
+					"uvNorth": [38, 54, 38, 56],
+					"uvEast": [35, 54, 38, 56],
+					"uvSouth": [41, 54, 41, 56],
+					"uvWest": [38, 54, 41, 56],
+					"uvUp": [38, 54, 38, 51],
+					"uvDown": [38, 51, 38, 54]
+				}
+			]
+		}
+	]
+}
