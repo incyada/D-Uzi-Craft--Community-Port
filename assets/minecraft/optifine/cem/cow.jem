@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [128, 128],
+	"textureSize": [128, 64],
 	"texture": "optifine/random/entity/cow/temperate_cow.png",
 	"models": [
 		{

@@ -1,0 +1,101 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 64],
+	"texture": "optifine/random/entity/goat/goat.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 0],
+			"boxes": [
+				{"coordinates": [0, 3, -16, 0, 8, 6], "textureOffset": [97, 23]},
+				{"coordinates": [3, 19, -10, 4, 2, 2], "textureOffset": [69, 60]}
+			],
+			"submodels": [
+				{
+					"id": "mirror",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-7, 19, -10, 4, 2, 2], "textureOffset": [69, 60]}
+					]
+				}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0.5, -18, 8],
+			"rotate": [-55, 0, 0],
+			"boxes": [
+				{"coordinates": [-3, 14.5, -19, 6, 10, 14], "textureOffset": [88, 40]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "left_horn",
+			"id": "left_horn",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 0]
+		},
+		{
+			"part": "right_horn",
+			"id": "right_horn",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [-0.5, 0, 0],
+			"boxes": [
+				{"coordinates": [-5, 6, -7, 10, 10, 16], "textureOffset": [65, 1]},
+				{"coordinates": [-6, 4, -9, 12, 14, 10], "textureOffset": [55, 29]}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3.5, -10, -4],
+			"boxes": [
+				{"coordinates": [0.5, 0, 4, 4, 6, 4], "textureOffset": [112, 28]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, -4],
+			"boxes": [
+				{"coordinates": [-4.5, 0, 4, 4, 6, 4], "textureOffset": [112, 28]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3.5, -10, 6],
+			"boxes": [
+				{"coordinates": [0.5, 0, -6, 4, 10, 4], "textureOffset": [112, 2]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 6],
+			"boxes": [
+				{"coordinates": [-4.5, 0, -6, 4, 10, 4], "textureOffset": [112, 2]}
+			]
+		}
+	]
+}

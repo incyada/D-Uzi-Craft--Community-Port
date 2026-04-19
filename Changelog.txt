@@ -54,4 +54,6 @@ reuben saddle has wings moved slightly to avoid z-fighting
 lower spider to not float
 
 stray emmisives were added by me so that i matched all of the other special skellies (no parched, the pack wasnt updated to 1.21.11 yet)
+
+the dolphin is just really broken on the bedrock pack, not a conversion issue
 ============================================

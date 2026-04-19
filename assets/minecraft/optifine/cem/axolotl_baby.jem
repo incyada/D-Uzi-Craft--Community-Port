@@ -1,5 +1,4 @@
 {
-	//only using masaki's model as a point of reference
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 64],
 	"models": [
@@ -172,7 +171,7 @@
 			"translate": [0, -1.3225, -5.3],
 			"boxes": [
 				{
-					"coordinates": [0, 0.8925, 5.01, 0, 2.86, 4.29],
+					"coordinates": [0, 0.3925, 5.01, 0, 2.86, 4.29],
 					"uvNorth": [38, 54, 38, 56],
 					"uvEast": [35, 54, 38, 56],
 					"uvSouth": [41, 54, 41, 56],
