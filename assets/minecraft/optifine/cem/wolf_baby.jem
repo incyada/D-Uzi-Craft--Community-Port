@@ -1,0 +1,100 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [-1, -10.5, 7],
+			"boxes": [
+				{"coordinates": [-4.5, 6.5, -11, 8, 8, 8], "textureOffset": [0, 36]},
+				{"coordinates": [-4.5, 14.5, -9, 2, 2, 2], "textureOffset": [24, 40]},
+				{"coordinates": [1.5, 14.5, -9, 2, 2, 2], "textureOffset": [24, 40]},
+				{"coordinates": [-3.5, 6.52, -15, 6, 4, 4], "textureOffset": [40, 32]}
+			],
+			"animations": [
+				{
+					"head.sx": 0.65,
+					"head.sy": 0.65,
+					"head.sz": 0.65
+				}
+			]
+		},
+		{
+			"part": "mane",
+			"id": "mane",
+			"invertAxis": "xy",
+			"translate": [-1, -10, 3],
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 6, -6, 8, 6, 6], "textureOffset": [18, 52]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -10, -2],
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{"coordinates": [-3, 3, -1, 6, 8, 6], "textureOffset": [40, 40]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-2.5, -8, -7],
+			"boxes": [
+				{"coordinates": [0.5, 0, 6, 2, 8, 2], "textureOffset": [0, 54]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0.5, -8, -7],
+			"boxes": [
+				{"coordinates": [-2.5, 0, 6, 2, 8, 2], "textureOffset": [0, 54]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-2.5, -8, 4],
+			"boxes": [
+				{"coordinates": [0.5, 0, -5, 2, 8, 2], "textureOffset": [0, 54]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [0.5, -8, 4],
+			"boxes": [
+				{"coordinates": [-2.5, 0, -5, 2, 8, 2], "textureOffset": [0, 54]}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [-1, -12, -10],
+			"boxes": [
+				{"coordinates": [-1, 6, 9, 2, 6, 2], "textureOffset": [9, 56]}
+			]
+		}
+	]
+}

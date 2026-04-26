@@ -24,7 +24,7 @@
 			"invertAxis": "xy",
 			"translate": [0, -26, 0],
 			"boxes": [
-				{"coordinates": [-0.5, 24, -3.5, 1, 2, 1], "textureOffset": [26, 1]}
+				{"coordinates": [-0.5, 24, -3.5, 1, 2, 1], "textureOffset": [89, 3]}
 			]
 		},
 		{

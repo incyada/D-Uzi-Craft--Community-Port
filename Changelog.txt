@@ -60,4 +60,6 @@ the dolphin is just really broken on the bedrock pack, not a conversion issue (i
 villagers, including the zombies, uses my textures from my pack for biomes (and the java version, if it differs), as it fixes pixel inconsistency with babies, which was something that was glosed out initially, because of bedrock not showing the last 2 pixels of the villager robe, for some reason
 
 there... isnt... really a way to to detect if a villager is sleeping, i did try using the FA method, but that didnt work on me, for some reason
+
+fixed baby ashen wolf top myself, you would really notice it otherwise
 ============================================
