@@ -1,0 +1,93 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 128],
+	"texture": "optifine/random/entity/sea_turtle_baby.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -5, 10],
+			"boxes": [
+				{"coordinates": [-6, 0, -19, 12, 12, 12], "textureOffset": [4, 0]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, 10],
+			"submodels": [
+				{
+					"id": "body_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 13, -10],
+					"rotate": [-90, 0, 0],
+					"boxes": [
+						{"coordinates": [-10, -23, -13, 20, 20, 12], "textureOffset": [0, 48]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"body_rotation.rx": 0
+				}
+			]
+		},
+		{
+			"part": "body2",
+			"id": "body2",
+			"invertAxis": "xy",
+			"translate": [0, -13, 10],
+			"submodels": [
+				{
+					"id": "body2_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 13, -10],
+					"rotate": [-90, 0, 0]
+				}
+			],
+			"animations": [
+				{
+					"body2_rotation.rx": 0
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3.5, -2, -11],
+			"boxes": [
+				{"coordinates": [1.5, 3, 13, 8, 0, 12], "textureOffset": [-8, 24]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3.5, -2, -11],
+			"boxes": [
+				{"coordinates": [-9.5, 3, 13, 8, 0, 12], "textureOffset": [-8, 36]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-5, -3, 4],
+			"boxes": [
+				{"coordinates": [10, 5, -7, 12, 0, 8], "textureOffset": [44, 4]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [5, -3, 4],
+			"boxes": [
+				{"coordinates": [-22, 5, -7, 12, 0, 8], "textureOffset": [44, 12]}
+			]
+		}
+	]
+}

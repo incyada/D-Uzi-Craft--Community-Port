@@ -1,14 +1,15 @@
 13. fix all mob models and textures (with emf and etf)
 -- finish blaze, cat, creeper, leather horse, cave spider eyes, wither, camel husk (camel avoid overriding that model), baby bee, baby dolphin, baby fox
 -- ocelot after cat is done
--- need to include ghast and creeper emmisives, actually, all of them
+-- cave spider eyes are messed up, fix that
 14. add hidden mob variants (again, with etf and emf)
-15. lilypad variants (with continuity) (LAST thing to do with blocks, im so done with this)
-16. try again to implement negative effects potion bottles with an optimized file
-17. add option to straighten all items in 3rd person
-18. log cleanup
-19. anything else that is needed for the fork
-20. shell script to make publishing easier (removes dev files and git repo)
+15. glow time, for charged creeper and blaze
+16. lilypad variants (with continuity) (LAST thing to do with blocks, im so done with this)
+17. try again to implement negative effects potion bottles with an optimized file
+18. add option to straighten all items in 3rd person
+19. log cleanup?
+20. anything else that is needed for the fork
+21. shell script to make publishing easier (removes dev files and git repo)
 -- script should go like this: copy directory, enter said directory, delete git stuff and original pack, then compress into a file with the same name as the pack
 -- not sure if there are any command to do the compression part, maybe there are some
-21. backporting (until 1.20)
+22. backporting (until 1.20)
