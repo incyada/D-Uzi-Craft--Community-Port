@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 64],
-	"texture": "optifine/random/entity/fox/fox.png",
 	"models": [
 		{
 			"part": "head",

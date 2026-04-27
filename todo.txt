@@ -1,7 +1,5 @@
 13. fix all mob models and textures (with emf and etf)
--- finish blaze, cat, creeper, leather horse armor, cave spider eyes, wither, camel husk (camel avoid overriding that model), baby bee, baby dolphin, baby fox
--- ocelot after cat is done
--- cave spider eyes are messed up, fix that
+-- finish blaze, creeper, wither
 14. add hidden mob variants (again, with etf and emf)
 15. glow time, for charged creeper and blaze
 16. lilypad variants (with continuity) (LAST thing to do with blocks, im so done with this)

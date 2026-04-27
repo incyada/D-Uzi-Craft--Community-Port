@@ -1,24 +1,18 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [64, 64],
 	"texture": "optifine/random/entity/cat/collar.png",
+	"textureSize": [64, 64],
 	"models": [
 		{
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
-			"translate": [0, -9, 9],
+			"translate": [0, -9.75, 8.25],
 			"submodels": [
 				{
 					"id": "head_sleep",
 					"invertAxis": "xy",
-					"translate": [0, 9, -9]
-				}
-			],
-			"animations": [
-				{
-					"head_sleep.visible": "if(head.rz!=0, true, false)",
-					"head.visible": "if(head.rz==0, true, false)"
+					"translate": [0, 0, 0]
 				}
 			]
 		},
@@ -26,10 +20,10 @@
 			"part": "body",
 			"id": "body",
 			"invertAxis": "xy",
-			"translate": [0, -12, 10],
+			"translate": [0, -12, 7.99],
 			"rotate": [-90, 0, 0],
 			"boxes": [
-				{"coordinates": [-3, -5, -17, 6, 14, 5], "textureOffset": [1, 1]}
+				{"coordinates": [-3, -4, -16, 6, 12, 6], "textureOffset": [19, 36]}
 			],
 			"animations": [
 				{
@@ -53,13 +47,13 @@
 			"part": "back_left_leg",
 			"id": "back_left_leg",
 			"invertAxis": "xy",
-			"translate": [1.1, -6, -5]
+			"translate": [1.1, -6, -4.5]
 		},
 		{
 			"part": "back_right_leg",
 			"id": "back_right_leg",
 			"invertAxis": "xy",
-			"translate": [-1.1, -6, -5]
+			"translate": [-1.1, -6, -4.5]
 		},
 		{
 			"part": "tail",
@@ -81,9 +75,7 @@
 			"rotate": [-90, 0, 0],
 			"animations": [
 				{
-					"tail2.ty": 23,
-					"tail2.tz": -9,
-					"tail2.rx": "180 + 68.75"
+					"this.rx": 0
 				}
 			]
 		}

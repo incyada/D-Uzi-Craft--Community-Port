@@ -69,9 +69,9 @@
 			"part": "tail",
 			"id": "tail",
 			"invertAxis": "xy",
-			"translate": [0, -25, -11],
+			"translate": [0, -32, -12],
 			"boxes": [
-				{"coordinates": [-1, 7, 11, 2, 14, 4], "textureOffset": [106, 36]}
+				{"coordinates": [-1, 14, 10, 2, 14, 4], "textureOffset": [106, 36]}
 			]
 		},
 		{
