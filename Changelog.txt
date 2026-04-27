@@ -60,4 +60,8 @@ villagers, including the zombies, uses my textures from my pack for biomes (and 
 there... isnt... really a way to to detect if a villager is sleeping, i did try using the FA method, but that didnt work on me, for some reason
 
 fixed baby ashen wolf top myself, you would really notice it otherwise
+
+odd behaviour on emf 3.2 with cats, disabling compiled animations does fix it, it seems
+
+cant include melon snow golem, cause the pumkpin is an actual pumpkin, not a fake one provided by its model
 ============================================

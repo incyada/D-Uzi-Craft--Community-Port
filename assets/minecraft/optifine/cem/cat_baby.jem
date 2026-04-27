@@ -46,14 +46,8 @@
 			"id": "body",
 			"invertAxis": "xy",
 			"translate": [0, -12, 7.99],
-			"rotate": [-90, 0, 0],
 			"boxes": [
 				{"coordinates": [-3, -4, -16, 6, 12, 6], "textureOffset": [19, 36]}
-			],
-			"animations": [
-				{
-					"this.rx": 0
-				}
 			]
 		},
 		{
