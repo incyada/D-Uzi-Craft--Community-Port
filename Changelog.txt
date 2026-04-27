@@ -41,9 +41,9 @@ also also, filepath is different due to how model filepaths works
 
 using my opimized arrow model cause my lord is the orginal just straight brute force
 
-lilypad uses ctm instead of vanilla block variants due to how many variations if have to make
--- here is quick math: 5 lilypads x 9 flowers = 45 models (variants works with models instead of textures)
--- not fun, even if i were to optimise it
+lilypad uses connected textures instead of vanilla block variants due to how many variations if have to make
+-- here is some quick maths: 5 lilypads x 9 flowers = 45 models (variants works with models instead of textures)
+-- not fun, even if i were to optimise my workflow
 
 all entity textures are in a different folder (including the non necessary ones) in order to not make EMF a dependency of this pack
 
