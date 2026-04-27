@@ -1,7 +1,6 @@
-13. fix all mob models and textures (with emf and etf)
--- finish blaze, creeper, wither
 14. add hidden mob variants (again, with etf and emf)
-15. glow time, for charged creeper and blaze
+-- fix rabbit
+15. glow time, for charged creeper, blaze, and wither (if possible)
 16. try again to implement negative effects potion bottles with an optimized file
 17. add option to straighten all items in 3rd person
 18. log and/or pack cleanup

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 64],
-	"texture": "optifine/random/entity/zombie/zombie.png",
+	"texture": "optifine/random/entity/zombie/head_zombie.png",
 	"models": [
 		{
 			"part": "head",
