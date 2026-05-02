@@ -1,0 +1,124 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "optifine/random/entity/parrot/raven.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -8, 0.5],
+			"boxes": [
+				{"coordinates": [-1, 6.5, -1.5, 2, 3, 2], "textureOffset": [2, 34]},
+				{"coordinates": [-1, 9.5, -3.5, 2, 1, 4], "textureOffset": [10, 32]},
+				{"coordinates": [-0.5, 7.5, -3.5, 1, 2, 2], "textureOffset": [11, 38]},
+				{"coordinates": [-0.5, 7.5, -5.45, 1, 2, 2], "textureOffset": [2, 49], "sizeAdd": -0.01}
+			],
+			"submodels": [
+				{
+					"id": "feather",
+					"invertAxis": "xy",
+					"translate": [0, 9.5, -2.75],
+					"rotate": [5, 0, 0],
+					"boxes": [
+						{"coordinates": [0, -0.25, 0, 0, 5, 4], "textureOffset": [2, 50]}
+					]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -7.5, 1],
+			"boxes": [
+				{"coordinates": [-1.5, 1.5, -2.5, 3, 6, 3], "textureOffset": [2, 40]}
+			]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [1.5, -7.1, 0.8],
+			"submodels": [
+				{
+					"id": "left_wing_rotation",
+					"invertAxis": "xy",
+					"translate": [-1.5, 4.6, -0.8],
+					"rotate": [0, -180, 0],
+					"boxes": [
+						{"coordinates": [-0.5, -2.5, -1.5, 1, 5, 3], "textureOffset": [19, 40]},
+						{"coordinates": [-0.5, -7.5, -1.5, 0, 5, 3], "textureOffset": [23, 46]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"left_wing_rotation.ry": 0
+				}
+			]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-1.5, -7.1, 0.8],
+			"submodels": [
+				{
+					"id": "right_wing_rotation",
+					"invertAxis": "xy",
+					"translate": [1.5, 4.6, -0.8],
+					"rotate": [0, -180, 0],
+					"boxes": [
+						{"coordinates": [-0.5, -2.5, -1.5, 1, 5, 3], "textureOffset": [19, 40]},
+						{"coordinates": [0.5, -7.5, -1.5, 0, 5, 3], "textureOffset": [23, 46]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"right_wing_rotation.ry": 0
+				}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [1, -2, 1],
+			"boxes": [
+				{"coordinates": [0.5, 0, -1.5, 1, 2, 1], "textureOffset": [14, 50]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1, -2, 1],
+			"boxes": [
+				{"coordinates": [-1.5, 0, -1.5, 1, 2, 1], "textureOffset": [14, 50]}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -2.9, -1.2],
+			"boxes": [
+				{"coordinates": [-1.5, -0.1, 0.2, 3, 4, 1], "textureOffset": [22, 33]},
+				{"coordinates": [-1.5, -5.1, 1.2, 3, 5, 0], "textureOffset": [27, 38]}
+			],
+			"submodels": [
+				{
+					"id": "TR1",
+					"invertAxis": "xy",
+					"translate": [0, 4, 1],
+					"rotate": [-25, 0, 0],
+					"boxes": [
+						{"coordinates": [-1.5, -5.17738, 0.14369, 3, 5, 0], "textureOffset": [19, 54]}
+					]
+				}
+			]
+		}
+	]
+}

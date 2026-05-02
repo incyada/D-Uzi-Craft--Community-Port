@@ -68,4 +68,8 @@ cant include melon snow golem, cause the pumkpin is an actual pumpkin, not a fak
 cant make reuben or technoblade saddle work, but the files are there just in case
 
 named cows only apply to temperate, and no jumbo rabbit due to model differences
+
+enlarged raven parrot beak because CEM doesnt support decimals in their cube sizes
+
+skipped cat and dog renames, for now
 ============================================
