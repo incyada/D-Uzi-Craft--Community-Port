@@ -1,7 +1,7 @@
 {
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
-	"parent": "block/cube_all",
+	"parent": "block/cube",
 	"textures": {
     "top": "minecraft:block/spawner_bottom",
     "bottom": "minecraft:block/spawner_bottom",

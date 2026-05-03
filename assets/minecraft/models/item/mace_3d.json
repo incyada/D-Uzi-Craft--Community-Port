@@ -3,7 +3,8 @@
 	"credit": "Made by D°Uzi and ported by Cakeofcraft",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/3ditems/mace"
+		"0": "item/3ditems/mace",
+		"particle": "minecraft:item/3ditems/mace"
 	},
 	"elements": [
 		{

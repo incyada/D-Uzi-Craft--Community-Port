@@ -1,7 +1,10 @@
 //honestly, i dont know what is causing this to not work
 //for context, im trying to switch to the straightened torch model, but it always returns with the default blob when its true
 //renamed so that this file cant touch any models
+
+//the fix was literraly that simple, past me
+//apparently, blockbench overriden the regular texture, so by replacing it, it has been fixed
 {
     condition: "!Straightened3DItems",
-    fallback: "assets/minecraft/models/item/torch_3d_straightened.json"
+    fallback: "assets/minecraft/models/item/template_torch_3d_straightened.json"
 }

@@ -1,15 +1,15 @@
 {
-	"format_version": "1.21.11",
+	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "item/spyglass_model",
-		"particle": "textures/item/spyglass_model"
+		"particle": "item/spyglass_model"
 	},
 	"elements": [
 		{
 			"from": [7, 8.4, 6.9],
 			"to": [13.2, 10.6, 9.1],
-			"rotation": {"x": 0, "y": 0, "z": -90, "origin": [7, 8.5, 7]},
+			"rotation": {"angle": -90, "axis": "z", "origin": [7, 8.5, 7]},
 			"faces": {
 				"north": {"uv": [2, 2, 8, 4], "texture": "#1"},
 				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
@@ -22,7 +22,7 @@
 		{
 			"from": [2, 8.5, 7],
 			"to": [7, 10.5, 9],
-			"rotation": {"x": 0, "y": 0, "z": -90, "origin": [7, 8.5, 7]},
+			"rotation": {"angle": -90, "axis": "z", "origin": [7, 8.5, 7]},
 			"faces": {
 				"north": {"uv": [2, 6, 7, 8], "texture": "#1"},
 				"east": {"uv": [0, 6, 2, 8], "texture": "#1"},
@@ -59,6 +59,7 @@
 		{
 			"name": "spyglass",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1]
 		}

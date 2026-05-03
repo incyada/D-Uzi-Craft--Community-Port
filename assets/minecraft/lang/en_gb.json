@@ -1,5 +1,5 @@
 {
     "rpo.DUziCraft": "D°Uzi Craft",
     "rpo.DUziCraft.Straightened3DItems": "Straightened 3D Items",
-    "rpo.DUziCraft.Straightened3DItems.tooltip": "Straightens all 3D items in third person.\nCurrently doesn't affect torches due to technical challenges.\nUselful for mods that uses the third person item position in first person."
+    "rpo.DUziCraft.Straightened3DItems.tooltip": "Straightens all 3D items in third person. \nUselful for mods that uses the third person item position in first person"
 }
