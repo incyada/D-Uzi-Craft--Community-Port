@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/saplings/birch"
+        "layer0": "minecraft:item/saplings/birch"
     }
 }

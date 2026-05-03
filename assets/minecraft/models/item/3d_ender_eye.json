@@ -1,7 +1,7 @@
 {
-  "parent": "item/3d_ender_pearl",
+  "parent": "minecraft:item/3d_ender_pearl",
   "textures": {
-    "particle": "item/projectiles/ender_eye",
-    "all": "item/projectiles/ender_eye"
+    "particle": "minecraft:item/projectiles/ender_eye",
+    "all": "minecraft:item/projectiles/ender_eye"
   }
 }

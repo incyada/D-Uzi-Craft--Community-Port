@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/slowness_splash_potion"
+    "layer0": "minecraft:item/slowness_splash_potion"
   }
 }

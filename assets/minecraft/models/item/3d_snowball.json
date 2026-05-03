@@ -1,7 +1,7 @@
 {
-  "parent": "item/3d_fireball",
+  "parent": "minecraft:item/3d_fireball",
   "textures": {
-    "particle": "item/projectiles/snowball",
-    "all": "item/projectiles/snowball"
+    "particle": "minecraft:item/projectiles/snowball",
+    "all": "minecraft:item/projectiles/snowball"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/lodestone_compass_07"
+    "layer0": "minecraft:item/lodestone_compass_07"
   }
 }

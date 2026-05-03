@@ -1,9 +1,9 @@
 {
 	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
+	"credit": "Made by D°Uzi and ported by Cakeofcraft",
 	"textures": {
-		"1": "item/spyglass_model",
-		"particle": "item/spyglass_model"
+		"1": "minecraft:item/spyglass_model",
+		"particle": "minecraft:item/spyglass_model"
 	},
 	"elements": [
 		{

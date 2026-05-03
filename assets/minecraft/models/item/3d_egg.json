@@ -1,9 +1,9 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "Made by D°Uzi and ported by Cakeofcraft",
 	"textures": {
-		"all": "item/projectiles/egg",
-		"particle": "item/projectiles/egg"
+		"all": "minecraft:item/projectiles/egg",
+		"particle": "minecraft:item/projectiles/egg"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
-    "parent": "item/template_torch_3d",
+    "parent": "minecraft:item/template_torch_3d",
     "textures": {
-        "0": "item/3ditems/soul_torch",
-        "particle": "item/3ditems/soul_torch"
+        "0": "minecraft:item/3ditems/soul_torch",
+        "particle": "minecraft:item/3ditems/soul_torch"
     }
 }

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by D°Uzi and ported by Cakeofcraft",
 	"textureSize": [64, 32],
 	"texture": "optifine/random/entity/skeleton/stray_overlay.png",
 	"models": [

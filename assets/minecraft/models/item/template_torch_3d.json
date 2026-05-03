@@ -1,6 +1,6 @@
 {
 	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
+	"credit": "Made by D°Uzi and ported by Cakeofcraft",
 	"textures": {
 		"0": "#torch"
 	},
@@ -62,7 +62,7 @@
 	},
 	"groups": [
 		{
-			"name": "item",
+			"name": "minecraft:item",
 			"origin": [8, 0, 8],
 			"color": 1,
 			"children": [0, 1, 2]
