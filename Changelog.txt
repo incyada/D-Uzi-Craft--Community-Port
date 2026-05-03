@@ -79,4 +79,6 @@ outlines arent a thing due to no option to have backface culling for entities in
 ---- ill revisit this another time though, it might be interesting
 
 no tiny takeover (yet), the main pack hasn't been updated yet and the current models are broken on 26.1 and above
+
+the goat himself made the spectral arrow texture, so thank him
 ============================================

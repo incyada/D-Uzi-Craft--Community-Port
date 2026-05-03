@@ -1,8 +1,12 @@
 18. log and/or pack cleanup
 19. anything else that is needed for the fork
+-- book first, almost forgot
 20. shell script to make publishing easier (removes dev files and git repo)
 -- script should go like this: copy directory, enter said directory, delete git stuff and original pack, then compress into a file with the same name as the pack
 -- not sure if there are any command to do the compression part, maybe there are some
-21. proper docs for git repo
-22. after port, backporting (until 1.20)
+21. playtesting
+22. during of after that proper docs for git repo
+23. a suprise...
+-- what it is will be seen eventually
+24. post release, backporting (until 1.20)
 -- packs are starting to drop these older versions though, which does reduce the workload, but we'll see if mods gets updated to 26.1 at the very least
