@@ -1,0 +1,7 @@
+//honestly, i dont know what is causing this to not work
+//for context, im trying to switch to the straightened torch model, but it always returns with the default blob when its true
+//renamed so that this file cant touch any models
+{
+    condition: "!Straightened3DItems",
+    fallback: "assets/minecraft/models/item/torch_3d_straightened.json"
+}

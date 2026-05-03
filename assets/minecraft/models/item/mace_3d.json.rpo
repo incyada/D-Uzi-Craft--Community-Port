@@ -1,0 +1,4 @@
+{
+    condition: "!Straightened3DItems",
+    fallback: "assets/minecraft/models/item/mace_3d_straightened.json"
+}

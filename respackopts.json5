@@ -1,0 +1,10 @@
+//made by Cakeofcraft
+//i have already done this, so there isnt much for me to note about
+{
+    id: "DUziCraft",
+    version: 14,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        Straightened3DItems: false
+    }
+}

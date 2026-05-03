@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_torch_3d_straightened",
+    "textures": {
+        "0": "minecraft:item/3ditems/torch"
+    }
+}
