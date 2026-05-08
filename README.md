@@ -1,8 +1,9 @@
 # D°Uzi Craft: Dessert Port
 
-<h1 style="text-align: center;">
-  <img src="pack.png" width=150 height="150">
-</h1>
+<p align="center">
+  <img src="pack.png" width="150" height="150">
+</p>
+
 D°Uzi Craft is a resource pack that aims to make Minecraft visually enjoyable in a fresh way, without drastically changing the game's art style.
 
 As the name suggests: this is a port of a resource pack of the same name. You can see it [here.](
