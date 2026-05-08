@@ -8,7 +8,7 @@
 # can not use a variable, but this is more convient in some cases, and makes the code not hardcoded
 # it also makes expandability alot easier
 # just gotta make sure to wrap the variable with quotation marks
-PACK_NAME="D°Uzi Craft: Community Port"
+PACK_NAME="D°Uzi Craft: Dessert Port"
 
 # creates temporary folder, in order to avoid recursive actions that "might" delete the whole project
 mkdir ./tmp
